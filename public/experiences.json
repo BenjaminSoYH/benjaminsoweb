@@ -1,0 +1,97 @@
+[
+  {
+    "title": "SDE Intern",
+    "company": "Amazon",
+    "dates": "Jun 2025 - Sep 2025",
+    "details": "idk haven't started yet",
+    "team": "AWS",
+    "type": "development",
+    "imgUrl": "/experiences/AWS.png"
+  },
+  {
+    "title": "IT Service Desk Assistant",
+    "company": "University of Washington Housing & Food Services",
+    "dates": "Apr 2025 - Present",
+    "details": "WPF label printing application",
+    "team": null,
+    "type": "development",
+    "imgUrl": "/experiences/HFS.jpeg"
+
+  },
+  {
+    "title": "Research Assistant",
+    "company": "University of Washington Department of Biology",
+    "dates": "Jan 2025 - Present",
+    "details": "VSCode extension for .rev language support ",
+    "team": "Tribble Lab",
+    "type": "research",
+    "imgUrl": "/experiences/tribble_lab.png"
+
+  },
+  {
+    "title": "Marketing",
+    "company": "Software Engineering Career Club at UW (SWECC)",
+    "dates": "Sep 2024 - Present",
+    "details": "Outreach and club projects",
+    "team": null,
+    "type": "community"
+  },
+  {
+    "title": "Team Lead",
+    "company": "Web Impact UW",
+    "dates": "Apr 2025 - May 2025",
+    "details": "Led React.js teaching and development",
+    "team": null,
+    "type": "community"
+  },
+  {
+    "title": "Research Collaborator",
+    "company": "University of Washington Human Centered Design & Engineering",
+    "dates": "Jan 2025 - Mar 2025",
+    "details": "data theory and ethics with PhDs and grad students",
+    "team": "Theory That Counts",
+    "type": "research",
+    "imgUrl": "/experiences/HCDE.png"
+
+  },
+  {
+    "title": "Web Development Intern",
+    "company": "Leaner Startups",
+    "dates": "Oct 2023 - Jul 2024",
+    "details": "MERN stack website, bookings page",
+    "team": null,
+    "type": "development",
+    "imgUrl": "/experiences/Leaner_startups.jpeg"
+
+  },
+  {
+    "title": "Developer",
+    "company": "University of Washington Information School",
+    "dates": "Mar 2024 - Jun 2024",
+    "details": "PEDMAS algorithm design",
+    "team": "WordPlayPen",
+    "type": "research",
+    "imgUrl": "/experiences/wordplay.png"
+
+  },
+  {
+    "title": "Web Developer",
+    "company": "University of Washington Electrical Engineering",
+    "dates": "Sep 2022 - Mar 2023",
+    "details": "vanilla web development",
+    "team": "SEAL labs",
+    "type": "research",
+    "imgUrl": "/experiences/SEAL.png"
+
+  },
+  {
+    "title": "IT Guy",
+    "company": "The Salvation Army",
+    "dates": "Sep 2022 - Sep 2022",
+    "details": "real-time presentation tools and AV support",
+    "team": null,
+    "type": "community",
+    "imgUrl": "/experiences/The_Salvation_Army.png"
+
+  }
+]
